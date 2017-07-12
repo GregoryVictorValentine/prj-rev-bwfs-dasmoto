@@ -1,0 +1,28 @@
+/*SELECTORS*/
+h1, h2, h3, p	{
+font-family:"Helvetica";
+}
+h1	{
+    background-image: url(../pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+h2	{
+	color:White;
+}
+/*CLASSES*/
+.backgroundColorGreen	{
+	background-color:MediumSpringGreen;
+}
+.backgroundColorCoral	{
+	background-color:LightCoral;
+}
+.backgroundColorSky	{
+	background-color:SkyBlue;
+}
+.price	{
+color:Blue;
+font-weight:bold;
+}
+	
